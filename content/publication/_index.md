@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Carbon Taxes and CO2 Emissions: Sweden as a Case Study"
   image: ""
 ---
