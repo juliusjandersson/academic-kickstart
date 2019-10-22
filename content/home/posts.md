@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Andersson, Julius J. The Distributional Effects of a Carbon Tax: The Role of Income Inequality
