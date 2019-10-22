@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Julius Andersson
+name: Julius J. Andersson
 
 # Username (this should match the folder name)
 authors:
