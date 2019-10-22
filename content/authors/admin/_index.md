@@ -18,7 +18,6 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-I am an environmental economist, studying the effects of carbon pricing.
 
 interests:
 - Environmental Economics
@@ -51,9 +50,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/julleljus
-- icon: youtube
-  icon_pack: fab
-  link: https://youtube.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -70,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Environmental Economics at the London School of Economics. I study the effects of climate change mitigation policies in practice. My PhD thesis explores the environmental and distributional effects of the Swedish carbon tax, and provides some of the first empirical evidence of the effects of carbon pricing. My work contributes to different strands of academic literature: environmental economics, political economy, and public economics, and has implications for our understanding of the effects of environmental taxation in general. yeah yeah 
+I am a PhD candidate in Environmental Economics at the London School of Economics. I study the effects of climate change mitigation policies in practice. My PhD thesis explores the environmental and distributional effects of the Swedish carbon tax, and provides some of the first empirical evidence of the effects of carbon pricing. My work contributes to different strands of academic literature: environmental economics, political economy, and public economics, and has implications for our understanding of the effects of environmental taxation in general. Test
 
 
