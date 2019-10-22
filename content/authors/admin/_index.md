@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Julius Andersson
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in Environmental Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: London School of Economics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Environmental Economics
+    institution: London School of Economics
+    year: 2019
+  - course: MSc Economics 
+    institution: University College London 
+    year: 2014
+  - course: MSc Environmental Economics and Climate Change
+    institution: London School of Economics
+    year: 2013
+  - course: BSc Economics
+    institution: Lund University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
