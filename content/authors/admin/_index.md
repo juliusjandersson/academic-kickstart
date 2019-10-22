@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-
+I am an environmental economist, studying the effects of carbon pricing.
 
 interests:
 - Environmental Economics
