@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:j.j.andersson@lse.ac.uk".
+  link: mailto:j.j.andersson@lse.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/julleljus
