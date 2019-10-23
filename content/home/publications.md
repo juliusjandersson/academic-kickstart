@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
- <p><strong>Andersson, Julius. J.</strong> 2019. Carbon Taxes and CO2 Emissions: Sweden as a Case Study. <em>American Economic Journal: Economic Policy</em>, 11(4): 1-30. <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20170144&&from=f" target="_blank">(link)</a> 
+ <p><strong>Andersson, Julius. J.</strong> 2019. Carbon Taxes and CO<sub>2</sub> Emissions: Sweden as a Case Study. <em>American Economic Journal: Economic Policy</em>, 11(4): 1-30. <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20170144&&from=f" target="_blank">(link)</a> 
   
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
