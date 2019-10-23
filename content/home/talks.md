@@ -67,3 +67,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+<strong>London School of Economics, 2015-2017</strong>
+
+<ul>
+<li>GY121 Sustainable Development</li>
+</ul>
+
+<p><strong>Awards:</strong> LSE Class Teacher Award, 2016</p>
