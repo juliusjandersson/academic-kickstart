@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div class="row">
 <div class="col-xs-12 col-md-8">
     
 
@@ -91,6 +93,7 @@ subtitle = ""
 
     </ul>
 
+  </div>
   </div>
       
 
