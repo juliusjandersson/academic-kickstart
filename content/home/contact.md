@@ -67,30 +67,15 @@ subtitle = ""
 +++
 
  <div class="col-xs-12 col-md-8">
-    
-
-    <ul class="fa-ul" itemscope>
+   
+   <ul class="fa-ul" itemscope>
 
       
-      <li>
+   <li>
         <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
         <span id="person-email" itemprop="email"><a href="mailto:e.dugoua@lse.ac.uk">e.dugoua@lse.ac.uk</a></span>
       </li>
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-    </ul>
+  </ul>
 
   </div>     
 
