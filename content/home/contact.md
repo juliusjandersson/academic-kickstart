@@ -70,11 +70,11 @@ subtitle = ""
    
    <ul class="fa-ul" itemscope>
 
-      
+   <p>   
    <li>
         <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email" itemprop="email"><a href="mailto:e.dugoua@lse.ac.uk">e.dugoua@lse.ac.uk</a></span>
-      </li>
+        <span id="person-email" itemprop="email"><a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a></span>
+      </li></p>
   </ul>
 
   </div>     
