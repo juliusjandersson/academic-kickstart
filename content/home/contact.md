@@ -66,14 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<div class="col-xs-12 col-md-8">
-    
-
-<ul class="fa-ul" itemscope>
-
-  <li><i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i><span id="person-email" itemprop="email"><a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a></span></li>
-</ul>
-</div>
+<span id="person-email" itemprop="email"><a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a></span>
       
 
       
