@@ -72,7 +72,7 @@ subtitle = ""
 
     <ul class="fa-ul" itemscope>
 
-      <div style="text-align: justify">
+      <div style="vertical-align: middle">
       <li>
         <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
         <span id="person-email" itemprop="email"><a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a></span>
