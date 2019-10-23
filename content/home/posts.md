@@ -74,3 +74,12 @@ subtitle = ""
 This empirical study is the first to analyse the distributional effects of a carbon tax over time. The results show that the Swedish carbon tax on transport fuel is regressive between 1999-2012 when measured against annual income, but progressive when using lifetime income. The trend over time, however, is toward an increase in regressivity, which is highly correlated with an increase in income inequality. Analysis of the determinants of tax incidence lends support to our hypothesis that for necessities -- goods with an income elasticity below one -- rising income inequality increases the regressivity of a consumption tax. To mitigate climate change, a carbon tax should be applied to goods that typically are necessities: transport fuel, food, heating, and electricity. Carbon taxation will thus likely be regressive in high-income countries, the more so the more unequal the distribution of income. 
 </div>
 </details></p>
+
+<p><strong>Andersson, Julius J.</strong> The "Meatigation" of Climate Change: Environmental and Distributional Effects of a Greenhouse Gas Tax on Animal Food Products</p>
+
+<p><details>
+<summary > <em>Click for Abstract</em> </summary>
+<div style="text-align: justify">
+Livestock products are responsible for just under 15 percent of global anthropogenic greenhouse gas emissions and are thereby a major contributor to climate change. Furthermore, estimated emission reductions from improved productivity and livestock management will be cancelled out by growth in livestock numbers since global demand for animal food products is estimated to almost double by 2050. Consequently, a more efficient mitigation approach is to reduce emissions through efforts to lower consumption. This study analyses the climate change mitigation potential, welfare, and distributional effects of a greenhouse gas consumption tax on animal food products in Sweden. The results show that a tax set at the level of 1180 SEK ($130) per ton of carbon dioxide equivalents will reduce annual emissions from food consumption by 6-10 percent depending on the number of animal food products that are taxed. Additionally, the distributional effect will be proportional when measured against lifetime income but regressive when measured against annual income, and with diverse impacts on changes in diets dependent on disposable income. These findings indicate that the tax will be environmentally efficient but how it is implemented is crucial for its acceptance among the general public.
+</div>
+</details></p>
