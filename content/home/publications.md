@@ -65,3 +65,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+ <p><strong>Andersson, Julius. J</strong> 2019. Carbon Taxes and CO2 Emissions: Sweden as a Case Study. <em>American Economic Journal: Economic Policy</em>, 11(4): 1-30. <a href="http://www.lse.ac.uk/geography-and-environment/assets/Documents/JobMarketPaper-JuliusAndersson.pdf" target="_blank">(pdf)</a> 
+  
+<p><details>
+<summary > <em>Click for Abstract</em> </summary>
+<div style="text-align: justify">
+This quasi-experimental study is the first to find a significant causal effect of carbon taxes on emissions, empirically analyzing the implementation of a carbon tax and a value-added tax on transport fuel in Sweden. After implementation, carbon dioxide emissions from transport declined almost 11 percent, with the largest share due to the carbon tax alone, relative to a synthetic control unit constructed from a comparable group of OECD countries. Furthermore, the carbon tax elasticity of demand for gasoline is three times larger than the price elasticity. Policy evaluations of carbon taxes, using price elasticities to simulate emission reductions, may thus significantly underestimate their true effect.
+</div>
+</details></p>
+
