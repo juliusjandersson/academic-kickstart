@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+<i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
 <span id="person-email" itemprop="email"><a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a></span>
       
 
