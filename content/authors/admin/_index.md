@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Environmental Economics at the London School of Economics. I study the effects of climate change mitigation policies in practice. My PhD thesis explores the environmental and distributional effects of the Swedish carbon tax, and provides some of the first empirical evidence of the effects of carbon pricing. My work contributes to different strands of academic literature: environmental economics, political economy, and public economics, and has implications for our understanding of the effects of environmental taxation in general.
+I am a PhD candidate at the London School of Economics, conducting research in environmental and public economics using empirical methods. I study the effects of climate change mitigation policies in practice. My PhD thesis explores the environmental and distributional effects of the Swedish carbon tax, and provides some of the first empirical evidence of the effects of carbon pricing. My work contributes to different strands of academic literature: environmental economics, public economics, and political economy, and has implications for our understanding of the effects of environmental taxation in general.
 
 
 
