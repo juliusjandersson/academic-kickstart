@@ -22,7 +22,7 @@ organizations:
 interests:
 - Environmental Economics
 - Public Economics
-- Empirical Methods
+- Political Economy
 
 education:
   courses:
