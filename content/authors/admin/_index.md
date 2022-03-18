@@ -14,7 +14,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stockholm Institute of Transition Economics / Stockholm School of Economics
+- name: Stockholm Institute of Transition Economics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor of Economics at Stockholm Institute of Transition Economics (SITE). I conduct research in environmental and public economics using empirical methods, studying the effects of climate change mitigation policies in practice. My PhD thesis explores the environmental and distributional effects of the Swedish carbon tax, and provides some of the first empirical evidence of the effects of carbon pricing. My work contributes to different strands of academic literature: environmental economics, public economics, and political economy, and has implications for our understanding of the effects of environmental taxation in general.
+I am an Assistant Professor of Economics at Stockholm Institute of Transition Economics (SITE), which is a research and policy center at the Stockholm School of Econnomics. I hold a PhD in Environmental Economics from the London School of Economics (LSE), where I am currently an associate researcher at the Department of Geography and Environment. I am also an affiliated researcher at the Mistra Center for Sustainable Markets (MISUM)  I conduct research in environmental and public economics, studying the effects of climate change mitigation policies in practice. My research interest are in the fields of environmental economics, public economics, and political economy.
 
 
 
