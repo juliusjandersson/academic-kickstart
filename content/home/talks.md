@@ -69,6 +69,15 @@ subtitle = ""
 +++
 
 
+<strong>Stockholm School of Economics, 2021-</strong>
+
+<ul>
+<li>5327 Environmental Economics (graduate, course director)</li>
+</ul>
+<ul>
+<li>1403 The Future of Europe (graduate)</li>
+</ul>
+
 <strong>London School of Economics, 2015-2017</strong>
 
 <ul>
