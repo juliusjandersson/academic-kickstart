@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<a href="mailto:j.j.andersson@lse.ac.uk">j.j.andersson@lse.ac.uk</a>
+<a href="mailto:julius.andersson@hhs.se">julius.andersson@hhs.se</a>
     
 
       
