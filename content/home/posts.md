@@ -66,12 +66,21 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>Andersson, Julius J.</strong> The Distributional Effects of a Carbon Tax: The Role of Income Inequality
+<p><strong>Andersson, Julius J.</strong> "All Electric, All Nuclear" -- Decarbonisation and the Role of Nuclear Energy: Evidence from France</p>
 
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
 <div style="text-align: justify">
-This empirical study analyses the determinants of the distributional effects of an environmental tax. The results show that the Swedish carbon tax on transport fuel is regressive between 1999-2012 when measured against annual income, but progressive when using lifetime income. The trend over time, however, is toward an increase in regressivity, which is highly correlated with an increase in income inequality. Analysis of the determinants of distributional effects lends support to our hypothesis that for necessities -- goods with an income elasticity below one -- rising income inequality increases the regressivity of a consumption tax. To mitigate climate change, a carbon tax should be applied to goods that typically are necessities: transport fuel, food, heating, and electricity. Carbon taxation will thus likely be regressive in high-income countries, the more so the more unequal the distribution of income. 
+We estimate the potential to abate emissions of carbon dioxide through a large scale build out of nuclear energy. On the 6th of March 1974, Pierre Messmer, then Prime Minister of France, announced an ambitious nuclear energy program that became known as the "Messmer Plan". The plan aimed to generate all of France's electricity from nuclear power and was announced as a direct response to the surging oil price during the 1973 oil crisis. The first new plants came online in 1980 and between 1979-1988 the number of reactors in France increased from 16 to 55. Using this quasi-experimental setting, together with the synthetic control method to construct a counterfactual, we find that the large push for nuclear energy reduced emissions of carbon dioxide from electricity and heat production in France by 62 percent in an average year between 1980-2005. 
+</div>
+</details></p>
+
+<strong>Andersson, Julius J.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality
+
+<p><details>
+<summary > <em>Click for Abstract</em> </summary>
+<div style="text-align: justify">
+We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the tax incidence moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. 
 </div>
 </details></p>
 
