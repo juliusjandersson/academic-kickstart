@@ -66,15 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<p><strong>Andersson, Julius J.</strong> "All Electric, All Nuclear" -- Decarbonisation and the Role of Nuclear Energy: Evidence from France</p>
-
-<p><details>
-<summary > <em>Click for Abstract</em> </summary>
-<div style="text-align: justify">
-We estimate the potential to abate emissions of carbon dioxide through a large scale build out of nuclear energy. On the 6th of March 1974, Pierre Messmer, then Prime Minister of France, announced an ambitious nuclear energy program that became known as the "Messmer Plan". The plan aimed to generate all of France's electricity from nuclear power and was announced as a direct response to the surging oil price during the 1973 oil crisis. The first new plants came online in 1980 and between 1979-1988 the number of reactors in France increased from 16 to 55. Using this quasi-experimental setting, together with the synthetic control method to construct a counterfactual, we find that the large push for nuclear energy reduced emissions of carbon dioxide from electricity and heat production in France by 62 percent in an average year between 1980-2005. 
-</div>
-</details></p>
-
 <strong>Andersson, Julius J.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality
 
 <p><details>
