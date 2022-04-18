@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>Andersson, Julius J.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/cv_updated.pdf" target="_blank">(link)</a> 
+<strong>Andersson, Julius J.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_February_2022.pdf" target="_blank">(link)</a> 
 
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
