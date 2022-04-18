@@ -67,6 +67,8 @@ subtitle = ""
 +++
 
  <p><strong>Andersson, Julius. J.</strong> 2019. Carbon Taxes and CO<sub>2</sub> Emissions: Sweden as a Case Study. <em>American Economic Journal: Economic Policy</em>, 11(4): 1-30. <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20170144&&from=f" target="_blank">(link)</a> 
+  
+Winner of the 2022 AEJ:Economic Policy Best Paper Award. <a href="https://www.aeaweb.org/news/2022-aej-best-papers" target="_blank">(link)</a> 
 
 The article was featured in AEA's Research Highlight series on November 15, 2019: "An efficient way to reduce emissions". <a href="https://www.aeaweb.org/research/carbon-tax-impact-sweden" target="_blank">(link)</a> 
 
