@@ -71,7 +71,7 @@ subtitle = ""
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
 <div style="text-align: justify">
-We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the tax incidence moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. 
+We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the distributional effect moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. 
 </div>
 </details></p>
 
