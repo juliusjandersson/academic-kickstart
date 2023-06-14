@@ -75,7 +75,7 @@ We present a simple model that shows how the two parameters of income inequality
 </div>
 </details></p>
 
-<p><strong>Andersson, Julius J.</strong> The "Meatigation" of Climate Change: Environmental and Distributional Effects of a Greenhouse Gas Tax on Animal Food Products</p>
+<p><strong>Andersson, Julius J</strong>., and Giles Atkinson. The "Meatigation" of Climate Change: Environmental and Distributional Effects of a Greenhouse Gas Tax on Animal Food Products</p>
 
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
