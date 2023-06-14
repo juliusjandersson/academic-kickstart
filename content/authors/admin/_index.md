@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor of Economics at the Stockholm Institute of Transition Economics (SITE), a research and policy center at the Stockholm School of Economics. Additionally, I serve as an affiliated researcher at the Mistra Center for Sustainable Markets (Misum). I earned my PhD in Environmental Economics from the London School of Economics (LSE). My research primarily focuses on the practical effects of climate change mitigation policies and extends into the fields of environmental economics, public economics, and political economy
+I am an Assistant Professor of Economics at the Stockholm Institute of Transition Economics (SITE), a research and policy center at the Stockholm School of Economics. Additionally, I serve as an affiliated researcher at the Mistra Center for Sustainable Markets (Misum). I earned my PhD in Environmental Economics from the London School of Economics (LSE). My research primarily focuses on the practical effects of climate change mitigation policies and extends into the fields of environmental economics, public economics, and political economy.
 
 
 
