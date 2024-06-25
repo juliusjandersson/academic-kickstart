@@ -75,7 +75,7 @@ We assess industrial policy’s role in decarbonization by examining the expansi
 </div>
 </details></p>
 
-<strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_June_2023.pdf" target="_blank">(link)</a> 
+<strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_April_2024.pdf" target="_blank">(link)</a> 
 
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
