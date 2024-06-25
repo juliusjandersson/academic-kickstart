@@ -66,6 +66,15 @@ subtitle = ""
  css_class = ""
 +++
 
+<strong>Andersson, Julius J., and Jared J. Finnegan.</strong> Industrial Policy and Decarbonization: The Case of Nuclear Energy in France <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_June_2023.pdf" target="_blank">(link)</a> 
+
+<p><details>
+<summary > <em>Click for Abstract</em> </summary>
+<div style="text-align: justify">
+We assess industrial policy’s role in decarbonization by examining the expansion of nuclear energy in France following the 1973 oil crisis. Within a decade, France initiated construction of 51 new reactors. This resulted in a 62 percent reduction in carbon dioxide emissions from electricity and heat production, and over 20 percent reduction in total CO2 emissions. Emission reductions began six years after policy announcement, with an average abatement cost of -$20 per metric ton of CO2. We show that the government's ability to insulate the policymaking process from opponents was crucial for the political success of the reform.
+</div>
+</details></p>
+
 <strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_June_2023.pdf" target="_blank">(link)</a> 
 
 <p><details>
