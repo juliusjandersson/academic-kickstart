@@ -75,12 +75,12 @@ We assess industrial policy’s role in decarbonization by examining the expansi
 </div>
 </details></p>
 
-<strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The_Distributional_Effects_of_a_Carbon_Tax_April_2024.pdf" target="_blank">(link)</a> 
+<strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of a Carbon Tax on Gasoline: The Role of Income Inequality <a href="https://www.juliusandersson.com/The Distributional Effects of Gas Tax_Revised2nd.pdf" target="_blank">(link)</a> 
 
 <p><details>
 <summary > <em>Click for Abstract</em> </summary>
 <div style="text-align: justify">
-We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the distributional effect moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. 
+We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the distributional effect moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. A cross-country analysis of gasoline taxes in high-income nations further supports our findings, establishing a strong correlation between higher inequality and greater tax regressivity. Our model provides policymakers with a useful framework to assess when complementary redistributive measures such as lump-sum transfers may be necessary.
 </div>
 </details></p>
 
