@@ -66,6 +66,38 @@ subtitle = ""
  css_class = ""
 +++
 
+<p>
+<strong>Andersson, Julius J., and Jared J. Finnegan.</strong>
+Industrial Policy and Decarbonization: The Case of Nuclear Energy in France.
+<em>Journal of the European Economic Association</em>, forthcoming.
+<a href="https://www.juliusandersson.com/Industrial_Policy_and_Decarbonization_JEEA_RevisedVersion.pdf" target="_blank" rel="noopener noreferrer">(link)</a>
+</p>
+
+<details>
+<summary><em>Click for Abstract</em></summary>
+<div style="text-align: justify">
+  We assess industrial policy's role in decarbonization by examining the expansion of nuclear energy in France following the 1973 oil crisis. Within a decade, France initiated construction of 51 new reactors. This resulted in more than a 60 percent reduction in carbon dioxide emissions from electricity and heat production, and around a 20 percent reduction in total CO<sub>2</sub> emissions. Emission reductions began six years after the policy was announced, with an average abatement cost close to zero per metric ton of CO<sub>2</sub>. We show that the government's ability to insulate the policymaking process from opponents was crucial for the political success of the reform.
+</div>
+</details>
+
+<br>
+
+<p>
+<strong>Andersson, Julius J., and Giles Atkinson.</strong>
+Tax Progressivity of Carbon and Gasoline Taxes: The Role of Income Inequality.
+<em>Environmental and Resource Economics</em>, 89, Article 41 (2026).
+<a href="https://doi.org/10.1007/s10640-026-01093-2" target="_blank" rel="noopener noreferrer">(link)</a>
+</p>
+
+<details>
+<summary><em>Click for Abstract</em></summary>
+<div style="text-align: justify">
+We present a simple model showing how income inequality and the income elasticity of demand jointly shape the tax progressivity of indirect taxes, with rising inequality increasing the regressivity of taxes on necessities. We test the model's predictions by analyzing the Swedish carbon tax on transport fuel. We find that the tax becomes increasingly regressive over time, closely tracking rising income inequality. We also show that the relative incidence shifts from regressive to progressive when using annual expenditure rather than annual income as the welfare measure, as expenditure is more evenly distributed. A cross-country analysis of gasoline taxes in high-income nations further supports our findings, establishing a strong correlation between higher inequality and greater regressivity. Our model helps policymakers identify when complementary redistributive measures such as lump-sum transfers may become necessary.
+</div>
+</details>
+
+<br>
+
  <p><strong>Andersson, Julius. J.</strong> 2019. Carbon Taxes and CO<sub>2</sub> Emissions: Sweden as a Case Study. <em>American Economic Journal: Economic Policy</em>, 11(4): 1-30. <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20170144&&from=f" target="_blank">(link)</a> 
   
 Winner of the 2022 AEJ:Economic Policy Best Paper Award. <a href="https://www.aeaweb.org/news/2022-aej-best-papers" target="_blank">(link)</a> 
