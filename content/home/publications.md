@@ -70,7 +70,7 @@ subtitle = ""
 <strong>Andersson, Julius J., and Jared J. Finnegan.</strong>
 Industrial Policy and Decarbonization: The Case of Nuclear Energy in France.
 <em>Journal of the European Economic Association</em>, forthcoming.
-<a href="https://www.juliusandersson.com/Industrial_Policy_and_Decarbonization_JEEA_RevisedVersion.pdf" target="_blank" rel="noopener noreferrer">(link)</a>
+<a href="https://www.juliusandersson.com/Industrial_Policy_and_Decarbonization_JEEA_Forthcoming.pdf" target="_blank" rel="noopener noreferrer">(link)</a>
 </p>
 
 <details>
