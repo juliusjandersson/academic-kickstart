@@ -83,9 +83,8 @@ Industrial Policy and Decarbonization: The Case of Nuclear Energy in France.
 <br>
 
 <p>
-<strong>Andersson, Julius J., and Giles Atkinson.</strong>
-Tax Progressivity of Carbon and Gasoline Taxes: The Role of Income Inequality.
-<em>Environmental and Resource Economics</em>, 89, Article 41 (2026).
+<strong>Andersson, Julius J., and Giles Atkinson.</strong> 2026. Tax Progressivity of Carbon and Gasoline Taxes: The Role of Income Inequality.
+<em>Environmental and Resource Economics</em>, 89(6), 41.
 <a href="https://doi.org/10.1007/s10640-026-01093-2" target="_blank" rel="noopener noreferrer">(link)</a>
 </p>
 
