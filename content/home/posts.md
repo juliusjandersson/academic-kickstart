@@ -66,23 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>Andersson, Julius J., and Jared J. Finnegan.</strong> Industrial Policy and Decarbonization: The Case of Nuclear Energy in France <a href="https://www.juliusandersson.com/Industrial_Policy_and_Decarbonization_JEEA_RevisedVersion.pdf" target="_blank">(link)</a> 
 
-<p><details>
-<summary > <em>Click for Abstract</em> </summary>
-<div style="text-align: justify">
-We assess industrial policy’s role in decarbonization by examining the expansion of nuclear energy in France following the 1973 oil crisis. Within a decade, France initiated construction of 51 new reactors. This resulted in a 62 percent reduction in carbon dioxide emissions from electricity and heat production, and over 20 percent reduction in total CO2 emissions. Emission reductions began six years after policy announcement, with an average abatement cost of -$20 per metric ton of CO2. We show that the government's ability to insulate the policymaking process from opponents was crucial for the political success of the reform.
-</div>
-</details></p>
-
-<strong>Andersson, Julius J., and Giles Atkinson.</strong> The Distributional Effects of Gasoline Taxation: The Role of Income Inequality <a href="https://www.juliusandersson.com/The Distributional Effects of Gas Tax_Revised2nd_BetterIntro.pdf" target="_blank">(link)</a> 
-
-<p><details>
-<summary > <em>Click for Abstract</em> </summary>
-<div style="text-align: justify">
-We present a simple model that shows how the two parameters of income inequality and the income elasticity of demand determine changes in the distributional effect of a consumption tax; with rising inequality increasing the regressivity of a consumption tax on necessities. We test the model's predictions by analysing the Swedish carbon tax on transport fuel. We find that the tax is increasingly regressive over time, which is highly correlated with a rise in income inequality, and that the distributional effect moves from regressive to progressive when switching from annual income to the more evenly distributed measure of lifetime income. A cross-country analysis of gasoline taxes in high-income nations further supports our findings, establishing a strong correlation between higher inequality and greater tax regressivity. Our model provides policymakers with a useful framework to assess when complementary redistributive measures such as lump-sum transfers may be necessary.
-</div>
-</details></p>
 
 <p><strong>Andersson, Julius J.</strong> The "Meatigation" of Climate Change: Environmental and Distributional Effects of a Greenhouse Gas Tax on Animal Food Products</p>
 
